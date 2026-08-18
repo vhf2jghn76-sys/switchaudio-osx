@@ -1,4 +1,4 @@
-switchaudio-osx
+aswitchaudio-osx
 ===============
 
 A command-line utility to switch the audio source on Mac OS X.
